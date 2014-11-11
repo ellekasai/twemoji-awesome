@@ -3,7 +3,9 @@
 /*———————————–———————————–
   Overwrite Bootstrap
 ———————————–———————————–*/
+
 body {
+  border-top: 5px solid #FD7A66;
   font-family: "BPreplay", sans-serif;
   font-size: 18px;
 }
