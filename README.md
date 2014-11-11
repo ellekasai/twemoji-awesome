@@ -11,4 +11,5 @@ Elle Kasai
 - [Website](http://ellekasai.com/about)
 - [Twitter](http://twitter.com/ellekasai)
 
-[MIT License](http://ellekasai.mit-license.org).
+Code: [MIT License](http://ellekasai.mit-license.org).
+Graphics: [CC-BY](https://creativecommons.org/licenses/by/4.0/).
