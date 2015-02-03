@@ -854,7 +854,12 @@ $emoji-map: (
   "1f533": "white-square-button",
   "1f6ba": "womens",
   "274c": "x",
-  "30-20e3": "zero"
+  "30-20e3": "zero",
+  "1f4d6": "book",
+  "1f3ee": "izakaya-lantern",
+  "1f45f": "shoe",
+  "2b1b": "black-square",
+  "2b1c": "white-square"
 );
 
 @each $code, $name in $emoji-map {
