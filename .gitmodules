@@ -1,0 +1,3 @@
+[submodule "modules/twemoji-possum"]
+	path = modules/twemoji-possum
+	url = git@github.com:kamalasaurus/twemoji-possum.git
