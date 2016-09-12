@@ -1,0 +1,2525 @@
+.twa {
+  display: inline-block;
+  height: 1em;
+  width: 1em;
+  margin: 0 .05em 0 .1em;
+  vertical-align: -0.1em;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 1em 1em; }
+
+.twa-lg {
+  height: 1.33em;
+  width: 1.33em;
+  margin: 0 0.0665em 0 0.133em;
+  vertical-align: -0.133em;
+  background-size: 1.33em 1.33em; }
+
+.twa-2x {
+  height: 2em;
+  width: 2em;
+  margin: 0 0.1em 0 0.2em;
+  vertical-align: -0.2em;
+  background-size: 2em 2em; }
+
+.twa-3x {
+  height: 3em;
+  width: 3em;
+  margin: 0 0.15em 0 0.3em;
+  vertical-align: -0.3em;
+  background-size: 3em 3em; }
+
+.twa-4x {
+  height: 4em;
+  width: 4em;
+  margin: 0 0.2em 0 0.4em;
+  vertical-align: -0.4em;
+  background-size: 4em 4em; }
+
+.twa-5x {
+  height: 5em;
+  width: 5em;
+  margin: 0 0.25em 0 0.5em;
+  vertical-align: -0.5em;
+  background-size: 5em 5em; }
+
+.twa-smile {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f604.svg"); }
+
+.twa-laughing {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f606.svg"); }
+
+.twa-blush {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f60a.svg"); }
+
+.twa-smiley {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f603.svg"); }
+
+.twa-relaxed {
+  background-image: url("https://twemoji.maxcdn.com/svg/263a.svg"); }
+
+.twa-smirk {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f60f.svg"); }
+
+.twa-heart-eyes {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f60d.svg"); }
+
+.twa-kissing-heart {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f618.svg"); }
+
+.twa-kissing-closed-eyes {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f61a.svg"); }
+
+.twa-flushed {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f633.svg"); }
+
+.twa-relieved {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f625.svg"); }
+
+.twa-satisfied {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f60c.svg"); }
+
+.twa-grin {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f601.svg"); }
+
+.twa-wink {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f609.svg"); }
+
+.twa-stuck-out-tongue-winking-eye {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f61c.svg"); }
+
+.twa-stuck-out-tongue-closed-eyes {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f61d.svg"); }
+
+.twa-grinning {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f600.svg"); }
+
+.twa-kissing {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f617.svg"); }
+
+.twa-kissing-smiling-eyes {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f619.svg"); }
+
+.twa-stuck-out-tongue {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f61b.svg"); }
+
+.twa-sleeping {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f634.svg"); }
+
+.twa-worried {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f61f.svg"); }
+
+.twa-frowning {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f626.svg"); }
+
+.twa-anguished {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f627.svg"); }
+
+.twa-open-mouth {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f62e.svg"); }
+
+.twa-grimacing {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f62c.svg"); }
+
+.twa-confused {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f615.svg"); }
+
+.twa-hushed {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f62f.svg"); }
+
+.twa-expressionless {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f611.svg"); }
+
+.twa-unamused {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f612.svg"); }
+
+.twa-sweat-smile {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f605.svg"); }
+
+.twa-sweat {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f613.svg"); }
+
+.twa-weary {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f629.svg"); }
+
+.twa-pensive {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f614.svg"); }
+
+.twa-disappointed {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f61e.svg"); }
+
+.twa-confounded {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f616.svg"); }
+
+.twa-fearful {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f628.svg"); }
+
+.twa-cold-sweat {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f630.svg"); }
+
+.twa-persevere {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f623.svg"); }
+
+.twa-cry {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f622.svg"); }
+
+.twa-sob {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f62d.svg"); }
+
+.twa-joy {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f602.svg"); }
+
+.twa-astonished {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f632.svg"); }
+
+.twa-scream {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f631.svg"); }
+
+.twa-tired-face {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f62b.svg"); }
+
+.twa-angry {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f620.svg"); }
+
+.twa-rage {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f621.svg"); }
+
+.twa-triumph {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f624.svg"); }
+
+.twa-sleepy {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f62a.svg"); }
+
+.twa-yum {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f60b.svg"); }
+
+.twa-mask {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f637.svg"); }
+
+.twa-sunglasses {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f60e.svg"); }
+
+.twa-dizzy-face {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f635.svg"); }
+
+.twa-imp {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f47f.svg"); }
+
+.twa-smiling-imp {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f608.svg"); }
+
+.twa-neutral-face {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f610.svg"); }
+
+.twa-no-mouth {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f636.svg"); }
+
+.twa-innocent {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f607.svg"); }
+
+.twa-alien {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f47d.svg"); }
+
+.twa-yellow-heart {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f49b.svg"); }
+
+.twa-blue-heart {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f499.svg"); }
+
+.twa-purple-heart {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f49c.svg"); }
+
+.twa-heart {
+  background-image: url("https://twemoji.maxcdn.com/svg/2764.svg"); }
+
+.twa-green-heart {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f49a.svg"); }
+
+.twa-broken-heart {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f494.svg"); }
+
+.twa-heartbeat {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f493.svg"); }
+
+.twa-heartpulse {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f497.svg"); }
+
+.twa-two-hearts {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f495.svg"); }
+
+.twa-revolving-hearts {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f49e.svg"); }
+
+.twa-cupid {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f498.svg"); }
+
+.twa-sparkling-heart {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f496.svg"); }
+
+.twa-sparkles {
+  background-image: url("https://twemoji.maxcdn.com/svg/2728.svg"); }
+
+.twa-star {
+  background-image: url("https://twemoji.maxcdn.com/svg/2b50.svg"); }
+
+.twa-star2 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f31f.svg"); }
+
+.twa-dizzy {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4ab.svg"); }
+
+.twa-boom {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4a5.svg"); }
+
+.twa-anger {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4a2.svg"); }
+
+.twa-exclamation {
+  background-image: url("https://twemoji.maxcdn.com/svg/2757.svg"); }
+
+.twa-question {
+  background-image: url("https://twemoji.maxcdn.com/svg/2753.svg"); }
+
+.twa-grey-exclamation {
+  background-image: url("https://twemoji.maxcdn.com/svg/2755.svg"); }
+
+.twa-grey-question {
+  background-image: url("https://twemoji.maxcdn.com/svg/2754.svg"); }
+
+.twa-zzz {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4a4.svg"); }
+
+.twa-dash {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4a8.svg"); }
+
+.twa-sweat-drops {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4a6.svg"); }
+
+.twa-notes {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3b6.svg"); }
+
+.twa-musical-note {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3b5.svg"); }
+
+.twa-fire {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f525.svg"); }
+
+.twa-poop {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4a9.svg"); }
+
+.twa-thumbsup {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f44d.svg"); }
+
+.twa-thumbsdown {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f44e.svg"); }
+
+.twa-ok-hand {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f44c.svg"); }
+
+.twa-punch {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f44a.svg"); }
+
+.twa-fist {
+  background-image: url("https://twemoji.maxcdn.com/svg/270a.svg"); }
+
+.twa-v {
+  background-image: url("https://twemoji.maxcdn.com/svg/270c.svg"); }
+
+.twa-wave {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f44b.svg"); }
+
+.twa-hand {
+  background-image: url("https://twemoji.maxcdn.com/svg/270b.svg"); }
+
+.twa-open-hands {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f450.svg"); }
+
+.twa-point-up {
+  background-image: url("https://twemoji.maxcdn.com/svg/261d.svg"); }
+
+.twa-point-down {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f447.svg"); }
+
+.twa-point-left {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f448.svg"); }
+
+.twa-point-right {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f449.svg"); }
+
+.twa-raised-hands {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f64c.svg"); }
+
+.twa-pray {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f64f.svg"); }
+
+.twa-point-up-2 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f446.svg"); }
+
+.twa-clap {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f44f.svg"); }
+
+.twa-muscle {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4aa.svg"); }
+
+.twa-walking {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6b6.svg"); }
+
+.twa-runner {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3c3.svg"); }
+
+.twa-couple {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f46b.svg"); }
+
+.twa-family {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f46a.svg"); }
+
+.twa-two-men-holding-hands {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f46c.svg"); }
+
+.twa-two-women-holding-hands {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f46d.svg"); }
+
+.twa-dancer {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f483.svg"); }
+
+.twa-dancers {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f46f.svg"); }
+
+.twa-ok-woman {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f646.svg"); }
+
+.twa-no-good {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f645.svg"); }
+
+.twa-information-desk-person {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f481.svg"); }
+
+.twa-raised-hand {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f64b.svg"); }
+
+.twa-bride-with-veil {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f470.svg"); }
+
+.twa-person-with-pouting-face {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f64e.svg"); }
+
+.twa-person-frowning {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f64d.svg"); }
+
+.twa-bow {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f647.svg"); }
+
+.twa-couplekiss {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f48f.svg"); }
+
+.twa-couple-with-heart {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f491.svg"); }
+
+.twa-massage {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f486.svg"); }
+
+.twa-haircut {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f487.svg"); }
+
+.twa-nail-care {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f485.svg"); }
+
+.twa-boy {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f466.svg"); }
+
+.twa-girl {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f467.svg"); }
+
+.twa-woman {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f469.svg"); }
+
+.twa-man {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f468.svg"); }
+
+.twa-baby {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f476.svg"); }
+
+.twa-older-woman {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f475.svg"); }
+
+.twa-older-man {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f474.svg"); }
+
+.twa-person-with-blond-hair {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f471.svg"); }
+
+.twa-man-with-gua-pi-mao {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f472.svg"); }
+
+.twa-man-with-turban {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f473.svg"); }
+
+.twa-construction-worker {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f477.svg"); }
+
+.twa-cop {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f46e.svg"); }
+
+.twa-angel {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f47c.svg"); }
+
+.twa-princess {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f478.svg"); }
+
+.twa-smiley-cat {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f63a.svg"); }
+
+.twa-smile-cat {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f638.svg"); }
+
+.twa-heart-eyes-cat {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f63b.svg"); }
+
+.twa-kissing-cat {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f63d.svg"); }
+
+.twa-smirk-cat {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f63c.svg"); }
+
+.twa-scream-cat {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f640.svg"); }
+
+.twa-crying-cat-face {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f63f.svg"); }
+
+.twa-joy-cat {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f639.svg"); }
+
+.twa-pouting-cat {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f63e.svg"); }
+
+.twa-japanese-ogre {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f479.svg"); }
+
+.twa-japanese-goblin {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f47a.svg"); }
+
+.twa-see-no-evil {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f648.svg"); }
+
+.twa-hear-no-evil {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f649.svg"); }
+
+.twa-speak-no-evil {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f64a.svg"); }
+
+.twa-guardsman {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f482.svg"); }
+
+.twa-skull {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f480.svg"); }
+
+.twa-feet {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f463.svg"); }
+
+.twa-lips {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f444.svg"); }
+
+.twa-kiss {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f48b.svg"); }
+
+.twa-droplet {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4a7.svg"); }
+
+.twa-ear {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f442.svg"); }
+
+.twa-eyes {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f440.svg"); }
+
+.twa-nose {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f443.svg"); }
+
+.twa-tongue {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f445.svg"); }
+
+.twa-love-letter {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f48c.svg"); }
+
+.twa-bust-in-silhouette {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f464.svg"); }
+
+.twa-busts-in-silhouette {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f465.svg"); }
+
+.twa-speech-balloon {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4ac.svg"); }
+
+.twa-thought-balloon {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4ad.svg"); }
+
+.twa-sunny {
+  background-image: url("https://twemoji.maxcdn.com/svg/2600.svg"); }
+
+.twa-umbrella {
+  background-image: url("https://twemoji.maxcdn.com/svg/2614.svg"); }
+
+.twa-cloud {
+  background-image: url("https://twemoji.maxcdn.com/svg/2601.svg"); }
+
+.twa-snowflake {
+  background-image: url("https://twemoji.maxcdn.com/svg/2744.svg"); }
+
+.twa-snowman {
+  background-image: url("https://twemoji.maxcdn.com/svg/26c4.svg"); }
+
+.twa-zap {
+  background-image: url("https://twemoji.maxcdn.com/svg/26a1.svg"); }
+
+.twa-cyclone {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f300.svg"); }
+
+.twa-foggy {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f301.svg"); }
+
+.twa-ocean {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f30a.svg"); }
+
+.twa-cat {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f431.svg"); }
+
+.twa-dog {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f436.svg"); }
+
+.twa-mouse {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f42d.svg"); }
+
+.twa-hamster {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f439.svg"); }
+
+.twa-rabbit {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f430.svg"); }
+
+.twa-wolf {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f43a.svg"); }
+
+.twa-frog {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f438.svg"); }
+
+.twa-tiger {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f42f.svg"); }
+
+.twa-koala {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f428.svg"); }
+
+.twa-bear {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f43b.svg"); }
+
+.twa-pig {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f437.svg"); }
+
+.twa-pig-nose {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f43d.svg"); }
+
+.twa-cow {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f42e.svg"); }
+
+.twa-boar {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f417.svg"); }
+
+.twa-monkey-face {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f435.svg"); }
+
+.twa-monkey {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f412.svg"); }
+
+.twa-horse {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f434.svg"); }
+
+.twa-racehorse {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f40e.svg"); }
+
+.twa-camel {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f42b.svg"); }
+
+.twa-sheep {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f411.svg"); }
+
+.twa-elephant {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f418.svg"); }
+
+.twa-panda-face {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f43c.svg"); }
+
+.twa-snake {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f40d.svg"); }
+
+.twa-bird {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f426.svg"); }
+
+.twa-baby-chick {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f424.svg"); }
+
+.twa-hatched-chick {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f425.svg"); }
+
+.twa-hatching-chick {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f423.svg"); }
+
+.twa-chicken {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f414.svg"); }
+
+.twa-penguin {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f427.svg"); }
+
+.twa-turtle {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f422.svg"); }
+
+.twa-bug {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f41b.svg"); }
+
+.twa-honeybee {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f41d.svg"); }
+
+.twa-ant {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f41c.svg"); }
+
+.twa-beetle {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f41e.svg"); }
+
+.twa-snail {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f40c.svg"); }
+
+.twa-octopus {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f419.svg"); }
+
+.twa-tropical-fish {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f420.svg"); }
+
+.twa-fish {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f41f.svg"); }
+
+.twa-whale {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f433.svg"); }
+
+.twa-whale2 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f40b.svg"); }
+
+.twa-dolphin {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f42c.svg"); }
+
+.twa-cow2 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f404.svg"); }
+
+.twa-ram {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f40f.svg"); }
+
+.twa-rat {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f400.svg"); }
+
+.twa-water-buffalo {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f403.svg"); }
+
+.twa-tiger2 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f405.svg"); }
+
+.twa-rabbit2 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f407.svg"); }
+
+.twa-dragon {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f409.svg"); }
+
+.twa-goat {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f410.svg"); }
+
+.twa-rooster {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f413.svg"); }
+
+.twa-dog2 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f415.svg"); }
+
+.twa-pig2 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f416.svg"); }
+
+.twa-mouse2 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f401.svg"); }
+
+.twa-ox {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f402.svg"); }
+
+.twa-dragon-face {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f432.svg"); }
+
+.twa-blowfish {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f421.svg"); }
+
+.twa-crocodile {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f40a.svg"); }
+
+.twa-dromedary-camel {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f42a.svg"); }
+
+.twa-leopard {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f406.svg"); }
+
+.twa-cat2 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f408.svg"); }
+
+.twa-poodle {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f429.svg"); }
+
+.twa-paw-prints {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f43e.svg"); }
+
+.twa-bouquet {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f490.svg"); }
+
+.twa-cherry-blossom {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f338.svg"); }
+
+.twa-tulip {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f337.svg"); }
+
+.twa-four-leaf-clover {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f340.svg"); }
+
+.twa-rose {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f339.svg"); }
+
+.twa-sunflower {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f33b.svg"); }
+
+.twa-hibiscus {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f33a.svg"); }
+
+.twa-maple-leaf {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f341.svg"); }
+
+.twa-leaves {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f343.svg"); }
+
+.twa-fallen-leaf {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f342.svg"); }
+
+.twa-herb {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f33f.svg"); }
+
+.twa-mushroom {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f344.svg"); }
+
+.twa-cactus {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f335.svg"); }
+
+.twa-palm-tree {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f334.svg"); }
+
+.twa-evergreen-tree {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f332.svg"); }
+
+.twa-deciduous-tree {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f333.svg"); }
+
+.twa-chestnut {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f330.svg"); }
+
+.twa-seedling {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f331.svg"); }
+
+.twa-blossom {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f33c.svg"); }
+
+.twa-ear-of-rice {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f33e.svg"); }
+
+.twa-shell {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f41a.svg"); }
+
+.twa-globe-with-meridians {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f310.svg"); }
+
+.twa-sun-with-face {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f31e.svg"); }
+
+.twa-full-moon-with-face {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f31d.svg"); }
+
+.twa-new-moon-with-face {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f31a.svg"); }
+
+.twa-new-moon {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f311.svg"); }
+
+.twa-waxing-crescent-moon {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f312.svg"); }
+
+.twa-first-quarter-moon {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f313.svg"); }
+
+.twa-waxing-gibbous-moon {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f314.svg"); }
+
+.twa-full-moon {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f315.svg"); }
+
+.twa-waning-gibbous-moon {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f316.svg"); }
+
+.twa-last-quarter-moon {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f317.svg"); }
+
+.twa-waning-crescent-moon {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f318.svg"); }
+
+.twa-last-quarter-moon-with-face {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f31c.svg"); }
+
+.twa-first-quarter-moon-with-face {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f31b.svg"); }
+
+.twa-moon {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f319.svg"); }
+
+.twa-earth-africa {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f30d.svg"); }
+
+.twa-earth-americas {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f30e.svg"); }
+
+.twa-earth-asia {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f30f.svg"); }
+
+.twa-volcano {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f30b.svg"); }
+
+.twa-milky-way {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f30c.svg"); }
+
+.twa-partly-sunny {
+  background-image: url("https://twemoji.maxcdn.com/svg/26c5.svg"); }
+
+.twa-bamboo {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f38d.svg"); }
+
+.twa-gift-heart {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f49d.svg"); }
+
+.twa-dolls {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f38e.svg"); }
+
+.twa-school-satchel {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f392.svg"); }
+
+.twa-mortar-board {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f393.svg"); }
+
+.twa-flags {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f38f.svg"); }
+
+.twa-fireworks {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f386.svg"); }
+
+.twa-sparkler {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f387.svg"); }
+
+.twa-wind-chime {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f390.svg"); }
+
+.twa-rice-scene {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f391.svg"); }
+
+.twa-jack-o-lantern {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f383.svg"); }
+
+.twa-ghost {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f47b.svg"); }
+
+.twa-santa {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f385.svg"); }
+
+.twa-8ball {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3b1.svg"); }
+
+.twa-alarm-clock {
+  background-image: url("https://twemoji.maxcdn.com/svg/23f0.svg"); }
+
+.twa-apple {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f34e.svg"); }
+
+.twa-art {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3a8.svg"); }
+
+.twa-baby-bottle {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f37c.svg"); }
+
+.twa-balloon {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f388.svg"); }
+
+.twa-banana {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f34c.svg"); }
+
+.twa-bar-chart {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4ca.svg"); }
+
+.twa-baseball {
+  background-image: url("https://twemoji.maxcdn.com/svg/26be.svg"); }
+
+.twa-basketball {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3c0.svg"); }
+
+.twa-bath {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6c0.svg"); }
+
+.twa-bathtub {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6c1.svg"); }
+
+.twa-battery {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f50b.svg"); }
+
+.twa-beer {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f37a.svg"); }
+
+.twa-beers {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f37b.svg"); }
+
+.twa-bell {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f514.svg"); }
+
+.twa-bento {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f371.svg"); }
+
+.twa-bicyclist {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6b4.svg"); }
+
+.twa-bikini {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f459.svg"); }
+
+.twa-birthday {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f382.svg"); }
+
+.twa-black-joker {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f0cf.svg"); }
+
+.twa-black-nib {
+  background-image: url("https://twemoji.maxcdn.com/svg/2712.svg"); }
+
+.twa-blue-book {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4d8.svg"); }
+
+.twa-bomb {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4a3.svg"); }
+
+.twa-bookmark {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f516.svg"); }
+
+.twa-bookmark-tabs {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4d1.svg"); }
+
+.twa-books {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4da.svg"); }
+
+.twa-boot {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f462.svg"); }
+
+.twa-bowling {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3b3.svg"); }
+
+.twa-bread {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f35e.svg"); }
+
+.twa-briefcase {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4bc.svg"); }
+
+.twa-bulb {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4a1.svg"); }
+
+.twa-cake {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f370.svg"); }
+
+.twa-calendar {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4c6.svg"); }
+
+.twa-calling {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4f2.svg"); }
+
+.twa-camera {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4f7.svg"); }
+
+.twa-candy {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f36c.svg"); }
+
+.twa-card-index {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4c7.svg"); }
+
+.twa-cd {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4bf.svg"); }
+
+.twa-chart-with-downwards-trend {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4c9.svg"); }
+
+.twa-chart-with-upwards-trend {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4c8.svg"); }
+
+.twa-cherries {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f352.svg"); }
+
+.twa-chocolate-bar {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f36b.svg"); }
+
+.twa-christmas-tree {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f384.svg"); }
+
+.twa-clapper {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3ac.svg"); }
+
+.twa-clipboard {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4cb.svg"); }
+
+.twa-closed-book {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4d5.svg"); }
+
+.twa-closed-lock-with-key {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f510.svg"); }
+
+.twa-closed-umbrella {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f302.svg"); }
+
+.twa-clubs {
+  background-image: url("https://twemoji.maxcdn.com/svg/2663.svg"); }
+
+.twa-cocktail {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f378.svg"); }
+
+.twa-coffee {
+  background-image: url("https://twemoji.maxcdn.com/svg/2615.svg"); }
+
+.twa-computer {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4bb.svg"); }
+
+.twa-confetti-ball {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f38a.svg"); }
+
+.twa-cookie {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f36a.svg"); }
+
+.twa-corn {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f33d.svg"); }
+
+.twa-credit-card {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4b3.svg"); }
+
+.twa-crown {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f451.svg"); }
+
+.twa-crystal-ball {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f52e.svg"); }
+
+.twa-curry {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f35b.svg"); }
+
+.twa-custard {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f36e.svg"); }
+
+.twa-dango {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f361.svg"); }
+
+.twa-dart {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3af.svg"); }
+
+.twa-date {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4c5.svg"); }
+
+.twa-diamonds {
+  background-image: url("https://twemoji.maxcdn.com/svg/2666.svg"); }
+
+.twa-dollar {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4b5.svg"); }
+
+.twa-door {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6aa.svg"); }
+
+.twa-doughnut {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f369.svg"); }
+
+.twa-dress {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f457.svg"); }
+
+.twa-dvd {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4c0.svg"); }
+
+.twa-e-mail {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4e7.svg"); }
+
+.twa-egg {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f373.svg"); }
+
+.twa-eggplant {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f346.svg"); }
+
+.twa-electric-plug {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f50c.svg"); }
+
+.twa-email {
+  background-image: url("https://twemoji.maxcdn.com/svg/2709.svg"); }
+
+.twa-euro {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4b6.svg"); }
+
+.twa-eyeglasses {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f453.svg"); }
+
+.twa-fax {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4e0.svg"); }
+
+.twa-file-folder {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4c1.svg"); }
+
+.twa-fish-cake {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f365.svg"); }
+
+.twa-fishing-pole-and-fish {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3a3.svg"); }
+
+.twa-flashlight {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f526.svg"); }
+
+.twa-floppy-disk {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4be.svg"); }
+
+.twa-flower-playing-cards {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3b4.svg"); }
+
+.twa-football {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3c8.svg"); }
+
+.twa-fork-and-knife {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f374.svg"); }
+
+.twa-fried-shrimp {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f364.svg"); }
+
+.twa-fries {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f35f.svg"); }
+
+.twa-game-die {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3b2.svg"); }
+
+.twa-gem {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f48e.svg"); }
+
+.twa-gift {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f381.svg"); }
+
+.twa-golf {
+  background-image: url("https://twemoji.maxcdn.com/svg/26f3.svg"); }
+
+.twa-grapes {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f347.svg"); }
+
+.twa-green-apple {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f34f.svg"); }
+
+.twa-green-book {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4d7.svg"); }
+
+.twa-guitar {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3b8.svg"); }
+
+.twa-gun {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f52b.svg"); }
+
+.twa-hamburger {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f354.svg"); }
+
+.twa-hammer {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f528.svg"); }
+
+.twa-handbag {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f45c.svg"); }
+
+.twa-headphones {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3a7.svg"); }
+
+.twa-hearts {
+  background-image: url("https://twemoji.maxcdn.com/svg/2665.svg"); }
+
+.twa-high-brightness {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f506.svg"); }
+
+.twa-high-heel {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f460.svg"); }
+
+.twa-hocho {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f52a.svg"); }
+
+.twa-honey-pot {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f36f.svg"); }
+
+.twa-horse-racing {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3c7.svg"); }
+
+.twa-hourglass {
+  background-image: url("https://twemoji.maxcdn.com/svg/231b.svg"); }
+
+.twa-hourglass-flowing-sand {
+  background-image: url("https://twemoji.maxcdn.com/svg/23f3.svg"); }
+
+.twa-ice-cream {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f368.svg"); }
+
+.twa-icecream {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f366.svg"); }
+
+.twa-inbox-tray {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4e5.svg"); }
+
+.twa-incoming-envelope {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4e8.svg"); }
+
+.twa-iphone {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4f1.svg"); }
+
+.twa-jeans {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f456.svg"); }
+
+.twa-key {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f511.svg"); }
+
+.twa-kimono {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f458.svg"); }
+
+.twa-ledger {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4d2.svg"); }
+
+.twa-lemon {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f34b.svg"); }
+
+.twa-lipstick {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f484.svg"); }
+
+.twa-lock {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f512.svg"); }
+
+.twa-lock-with-ink-pen {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f50f.svg"); }
+
+.twa-lollipop {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f36d.svg"); }
+
+.twa-loop {
+  background-image: url("https://twemoji.maxcdn.com/svg/27bf.svg"); }
+
+.twa-loudspeaker {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4e2.svg"); }
+
+.twa-low-brightness {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f505.svg"); }
+
+.twa-mag {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f50d.svg"); }
+
+.twa-mag-right {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f50e.svg"); }
+
+.twa-mahjong {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f004.svg"); }
+
+.twa-mailbox {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4eb.svg"); }
+
+.twa-mailbox-closed {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4ea.svg"); }
+
+.twa-mailbox-with-mail {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4ec.svg"); }
+
+.twa-mailbox-with-no-mail {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4ed.svg"); }
+
+.twa-mans-shoe {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f45e.svg"); }
+
+.twa-meat-on-bone {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f356.svg"); }
+
+.twa-mega {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4e3.svg"); }
+
+.twa-melon {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f348.svg"); }
+
+.twa-memo {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4dd.svg"); }
+
+.twa-microphone {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3a4.svg"); }
+
+.twa-microscope {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f52c.svg"); }
+
+.twa-minidisc {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4bd.svg"); }
+
+.twa-money-with-wings {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4b8.svg"); }
+
+.twa-moneybag {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4b0.svg"); }
+
+.twa-mountain-bicyclist {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6b5.svg"); }
+
+.twa-movie-camera {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3a5.svg"); }
+
+.twa-musical-keyboard {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3b9.svg"); }
+
+.twa-musical-score {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3bc.svg"); }
+
+.twa-mute {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f507.svg"); }
+
+.twa-name-badge {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4db.svg"); }
+
+.twa-necktie {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f454.svg"); }
+
+.twa-newspaper {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4f0.svg"); }
+
+.twa-no-bell {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f515.svg"); }
+
+.twa-notebook {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4d3.svg"); }
+
+.twa-notebook-with-decorative-cover {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4d4.svg"); }
+
+.twa-nut-and-bolt {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f529.svg"); }
+
+.twa-oden {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f362.svg"); }
+
+.twa-open-file-folder {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4c2.svg"); }
+
+.twa-orange-book {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4d9.svg"); }
+
+.twa-outbox-tray {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4e4.svg"); }
+
+.twa-page-facing-up {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4c4.svg"); }
+
+.twa-page-with-curl {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4c3.svg"); }
+
+.twa-pager {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4df.svg"); }
+
+.twa-paperclip {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4ce.svg"); }
+
+.twa-peach {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f351.svg"); }
+
+.twa-pear {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f350.svg"); }
+
+.twa-pencil2 {
+  background-image: url("https://twemoji.maxcdn.com/svg/270f.svg"); }
+
+.twa-phone {
+  background-image: url("https://twemoji.maxcdn.com/svg/260e.svg"); }
+
+.twa-pill {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f48a.svg"); }
+
+.twa-pineapple {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f34d.svg"); }
+
+.twa-pizza {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f355.svg"); }
+
+.twa-postal-horn {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4ef.svg"); }
+
+.twa-postbox {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4ee.svg"); }
+
+.twa-pouch {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f45d.svg"); }
+
+.twa-poultry-leg {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f357.svg"); }
+
+.twa-pound {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4b7.svg"); }
+
+.twa-purse {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f45b.svg"); }
+
+.twa-pushpin {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4cc.svg"); }
+
+.twa-radio {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4fb.svg"); }
+
+.twa-ramen {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f35c.svg"); }
+
+.twa-ribbon {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f380.svg"); }
+
+.twa-rice {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f35a.svg"); }
+
+.twa-rice-ball {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f359.svg"); }
+
+.twa-rice-cracker {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f358.svg"); }
+
+.twa-ring {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f48d.svg"); }
+
+.twa-rugby-football {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3c9.svg"); }
+
+.twa-running-shirt-with-sash {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3bd.svg"); }
+
+.twa-sake {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f376.svg"); }
+
+.twa-sandal {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f461.svg"); }
+
+.twa-satellite {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4e1.svg"); }
+
+.twa-saxophone {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3b7.svg"); }
+
+.twa-scissors {
+  background-image: url("https://twemoji.maxcdn.com/svg/2702.svg"); }
+
+.twa-scroll {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4dc.svg"); }
+
+.twa-seat {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4ba.svg"); }
+
+.twa-shaved-ice {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f367.svg"); }
+
+.twa-shirt {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f455.svg"); }
+
+.twa-shower {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6bf.svg"); }
+
+.twa-ski {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3bf.svg"); }
+
+.twa-smoking {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6ac.svg"); }
+
+.twa-snowboarder {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3c2.svg"); }
+
+.twa-soccer {
+  background-image: url("https://twemoji.maxcdn.com/svg/26bd.svg"); }
+
+.twa-sound {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f509.svg"); }
+
+.twa-space-invader {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f47e.svg"); }
+
+.twa-spades {
+  background-image: url("https://twemoji.maxcdn.com/svg/2660.svg"); }
+
+.twa-spaghetti {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f35d.svg"); }
+
+.twa-speaker {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f50a.svg"); }
+
+.twa-stew {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f372.svg"); }
+
+.twa-straight-ruler {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4cf.svg"); }
+
+.twa-strawberry {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f353.svg"); }
+
+.twa-surfer {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3c4.svg"); }
+
+.twa-sushi {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f363.svg"); }
+
+.twa-sweet-potato {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f360.svg"); }
+
+.twa-swimmer {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3ca.svg"); }
+
+.twa-syringe {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f489.svg"); }
+
+.twa-tada {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f389.svg"); }
+
+.twa-tanabata-tree {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f38b.svg"); }
+
+.twa-tangerine {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f34a.svg"); }
+
+.twa-tea {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f375.svg"); }
+
+.twa-telephone-receiver {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4de.svg"); }
+
+.twa-telescope {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f52d.svg"); }
+
+.twa-tennis {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3be.svg"); }
+
+.twa-toilet {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6bd.svg"); }
+
+.twa-tomato {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f345.svg"); }
+
+.twa-tophat {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3a9.svg"); }
+
+.twa-triangular-ruler {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4d0.svg"); }
+
+.twa-trophy {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3c6.svg"); }
+
+.twa-tropical-drink {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f379.svg"); }
+
+.twa-trumpet {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3ba.svg"); }
+
+.twa-tv {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4fa.svg"); }
+
+.twa-unlock {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f513.svg"); }
+
+.twa-vhs {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4fc.svg"); }
+
+.twa-video-camera {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4f9.svg"); }
+
+.twa-video-game {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3ae.svg"); }
+
+.twa-violin {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3bb.svg"); }
+
+.twa-watch {
+  background-image: url("https://twemoji.maxcdn.com/svg/231a.svg"); }
+
+.twa-watermelon {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f349.svg"); }
+
+.twa-wine-glass {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f377.svg"); }
+
+.twa-womans-clothes {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f45a.svg"); }
+
+.twa-womans-hat {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f452.svg"); }
+
+.twa-wrench {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f527.svg"); }
+
+.twa-yen {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4b4.svg"); }
+
+.twa-aerial-tramway {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6a1.svg"); }
+
+.twa-airplane {
+  background-image: url("https://twemoji.maxcdn.com/svg/2708.svg"); }
+
+.twa-ambulance {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f691.svg"); }
+
+.twa-anchor {
+  background-image: url("https://twemoji.maxcdn.com/svg/2693.svg"); }
+
+.twa-articulated-lorry {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f69b.svg"); }
+
+.twa-atm {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3e7.svg"); }
+
+.twa-bank {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3e6.svg"); }
+
+.twa-barber {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f488.svg"); }
+
+.twa-beginner {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f530.svg"); }
+
+.twa-bike {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6b2.svg"); }
+
+.twa-blue-car {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f699.svg"); }
+
+.twa-boat {
+  background-image: url("https://twemoji.maxcdn.com/svg/26f5.svg"); }
+
+.twa-bridge-at-night {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f309.svg"); }
+
+.twa-bullettrain-front {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f685.svg"); }
+
+.twa-bullettrain-side {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f684.svg"); }
+
+.twa-bus {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f68c.svg"); }
+
+.twa-busstop {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f68f.svg"); }
+
+.twa-car {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f697.svg"); }
+
+.twa-carousel-horse {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3a0.svg"); }
+
+.twa-checkered-flag {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3c1.svg"); }
+
+.twa-church {
+  background-image: url("https://twemoji.maxcdn.com/svg/26ea.svg"); }
+
+.twa-circus-tent {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3aa.svg"); }
+
+.twa-city-sunrise {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f307.svg"); }
+
+.twa-city-sunset {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f306.svg"); }
+
+.twa-construction {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6a7.svg"); }
+
+.twa-convenience-store {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3ea.svg"); }
+
+.twa-crossed-flags {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f38c.svg"); }
+
+.twa-department-store {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3ec.svg"); }
+
+.twa-european-castle {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3f0.svg"); }
+
+.twa-european-post-office {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3e4.svg"); }
+
+.twa-factory {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3ed.svg"); }
+
+.twa-ferris-wheel {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3a1.svg"); }
+
+.twa-fire-engine {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f692.svg"); }
+
+.twa-fountain {
+  background-image: url("https://twemoji.maxcdn.com/svg/26f2.svg"); }
+
+.twa-fuelpump {
+  background-image: url("https://twemoji.maxcdn.com/svg/26fd.svg"); }
+
+.twa-helicopter {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f681.svg"); }
+
+.twa-hospital {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3e5.svg"); }
+
+.twa-hotel {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3e8.svg"); }
+
+.twa-hotsprings {
+  background-image: url("https://twemoji.maxcdn.com/svg/2668.svg"); }
+
+.twa-house {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3e0.svg"); }
+
+.twa-house-with-garden {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3e1.svg"); }
+
+.twa-japan {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f5fe.svg"); }
+
+.twa-japanese-castle {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3ef.svg"); }
+
+.twa-light-rail {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f688.svg"); }
+
+.twa-love-hotel {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3e9.svg"); }
+
+.twa-minibus {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f690.svg"); }
+
+.twa-monorail {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f69d.svg"); }
+
+.twa-mount-fuji {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f5fb.svg"); }
+
+.twa-mountain-cableway {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6a0.svg"); }
+
+.twa-mountain-railway {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f69e.svg"); }
+
+.twa-moyai {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f5ff.svg"); }
+
+.twa-office {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3e2.svg"); }
+
+.twa-oncoming-automobile {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f698.svg"); }
+
+.twa-oncoming-bus {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f68d.svg"); }
+
+.twa-oncoming-police-car {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f694.svg"); }
+
+.twa-oncoming-taxi {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f696.svg"); }
+
+.twa-performing-arts {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3ad.svg"); }
+
+.twa-police-car {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f693.svg"); }
+
+.twa-post-office {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3e3.svg"); }
+
+.twa-railway-car {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f683.svg"); }
+
+.twa-rainbow {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f308.svg"); }
+
+.twa-rocket {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f680.svg"); }
+
+.twa-roller-coaster {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3a2.svg"); }
+
+.twa-rotating-light {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6a8.svg"); }
+
+.twa-round-pushpin {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4cd.svg"); }
+
+.twa-rowboat {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6a3.svg"); }
+
+.twa-school {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3eb.svg"); }
+
+.twa-ship {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6a2.svg"); }
+
+.twa-slot-machine {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3b0.svg"); }
+
+.twa-speedboat {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6a4.svg"); }
+
+.twa-stars {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f303.svg"); }
+
+.twa-station {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f689.svg"); }
+
+.twa-statue-of-liberty {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f5fd.svg"); }
+
+.twa-steam-locomotive {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f682.svg"); }
+
+.twa-sunrise {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f305.svg"); }
+
+.twa-sunrise-over-mountains {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f304.svg"); }
+
+.twa-suspension-railway {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f69f.svg"); }
+
+.twa-taxi {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f695.svg"); }
+
+.twa-tent {
+  background-image: url("https://twemoji.maxcdn.com/svg/26fa.svg"); }
+
+.twa-ticket {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3ab.svg"); }
+
+.twa-tokyo-tower {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f5fc.svg"); }
+
+.twa-tractor {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f69c.svg"); }
+
+.twa-traffic-light {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6a5.svg"); }
+
+.twa-train2 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f686.svg"); }
+
+.twa-tram {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f68a.svg"); }
+
+.twa-triangular-flag-on-post {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6a9.svg"); }
+
+.twa-trolleybus {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f68e.svg"); }
+
+.twa-truck {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f69a.svg"); }
+
+.twa-vertical-traffic-light {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6a6.svg"); }
+
+.twa-warning {
+  background-image: url("https://twemoji.maxcdn.com/svg/26a0.svg"); }
+
+.twa-wedding {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f492.svg"); }
+
+.twa-jp {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f1ef-1f1f5.svg"); }
+
+.twa-kr {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f1f0-1f1f7.svg"); }
+
+.twa-cn {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f1e8-1f1f3.svg"); }
+
+.twa-us {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f1fa-1f1f8.svg"); }
+
+.twa-fr {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f1eb-1f1f7.svg"); }
+
+.twa-es {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f1ea-1f1f8.svg"); }
+
+.twa-it {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f1ee-1f1f9.svg"); }
+
+.twa-ru {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f1f7-1f1fa.svg"); }
+
+.twa-gb {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f1ec-1f1e7.svg"); }
+
+.twa-de {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f1e9-1f1ea.svg"); }
+
+.twa-100 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4af.svg"); }
+
+.twa-1234 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f522.svg"); }
+
+.twa-a {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f170.svg"); }
+
+.twa-ab {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f18e.svg"); }
+
+.twa-abc {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f524.svg"); }
+
+.twa-abcd {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f521.svg"); }
+
+.twa-accept {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f251.svg"); }
+
+.twa-aquarius {
+  background-image: url("https://twemoji.maxcdn.com/svg/2652.svg"); }
+
+.twa-aries {
+  background-image: url("https://twemoji.maxcdn.com/svg/2648.svg"); }
+
+.twa-arrow-backward {
+  background-image: url("https://twemoji.maxcdn.com/svg/25c0.svg"); }
+
+.twa-arrow-double-down {
+  background-image: url("https://twemoji.maxcdn.com/svg/23ec.svg"); }
+
+.twa-arrow-double-up {
+  background-image: url("https://twemoji.maxcdn.com/svg/23eb.svg"); }
+
+.twa-arrow-down {
+  background-image: url("https://twemoji.maxcdn.com/svg/2b07.svg"); }
+
+.twa-arrow-down-small {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f53d.svg"); }
+
+.twa-arrow-forward {
+  background-image: url("https://twemoji.maxcdn.com/svg/25b6.svg"); }
+
+.twa-arrow-heading-down {
+  background-image: url("https://twemoji.maxcdn.com/svg/2935.svg"); }
+
+.twa-arrow-heading-up {
+  background-image: url("https://twemoji.maxcdn.com/svg/2934.svg"); }
+
+.twa-arrow-left {
+  background-image: url("https://twemoji.maxcdn.com/svg/2b05.svg"); }
+
+.twa-arrow-lower-left {
+  background-image: url("https://twemoji.maxcdn.com/svg/2199.svg"); }
+
+.twa-arrow-lower-right {
+  background-image: url("https://twemoji.maxcdn.com/svg/2198.svg"); }
+
+.twa-arrow-right {
+  background-image: url("https://twemoji.maxcdn.com/svg/27a1.svg"); }
+
+.twa-arrow-right-hook {
+  background-image: url("https://twemoji.maxcdn.com/svg/21aa.svg"); }
+
+.twa-arrow-up {
+  background-image: url("https://twemoji.maxcdn.com/svg/2b06.svg"); }
+
+.twa-arrow-up-down {
+  background-image: url("https://twemoji.maxcdn.com/svg/2195.svg"); }
+
+.twa-arrow-up-small {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f53c.svg"); }
+
+.twa-arrow-upper-left {
+  background-image: url("https://twemoji.maxcdn.com/svg/2196.svg"); }
+
+.twa-arrow-upper-right {
+  background-image: url("https://twemoji.maxcdn.com/svg/2197.svg"); }
+
+.twa-arrows-clockwise {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f503.svg"); }
+
+.twa-arrows-counterclockwise {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f504.svg"); }
+
+.twa-b {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f171.svg"); }
+
+.twa-baby-symbol {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6bc.svg"); }
+
+.twa-baggage-claim {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6c4.svg"); }
+
+.twa-ballot-box-with-check {
+  background-image: url("https://twemoji.maxcdn.com/svg/2611.svg"); }
+
+.twa-bangbang {
+  background-image: url("https://twemoji.maxcdn.com/svg/203c.svg"); }
+
+.twa-black-circle {
+  background-image: url("https://twemoji.maxcdn.com/svg/26ab.svg"); }
+
+.twa-black-square-button {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f532.svg"); }
+
+.twa-cancer {
+  background-image: url("https://twemoji.maxcdn.com/svg/264b.svg"); }
+
+.twa-capital-abcd {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f520.svg"); }
+
+.twa-capricorn {
+  background-image: url("https://twemoji.maxcdn.com/svg/2651.svg"); }
+
+.twa-chart {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4b9.svg"); }
+
+.twa-children-crossing {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6b8.svg"); }
+
+.twa-cinema {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f3a6.svg"); }
+
+.twa-cl {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f191.svg"); }
+
+.twa-clock1 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f550.svg"); }
+
+.twa-clock10 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f559.svg"); }
+
+.twa-clock1030 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f565.svg"); }
+
+.twa-clock11 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f55a.svg"); }
+
+.twa-clock1130 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f566.svg"); }
+
+.twa-clock12 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f55b.svg"); }
+
+.twa-clock1230 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f567.svg"); }
+
+.twa-clock130 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f55c.svg"); }
+
+.twa-clock2 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f551.svg"); }
+
+.twa-clock230 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f55d.svg"); }
+
+.twa-clock3 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f552.svg"); }
+
+.twa-clock330 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f55e.svg"); }
+
+.twa-clock4 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f553.svg"); }
+
+.twa-clock430 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f55f.svg"); }
+
+.twa-clock5 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f554.svg"); }
+
+.twa-clock530 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f560.svg"); }
+
+.twa-clock6 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f555.svg"); }
+
+.twa-clock630 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f561.svg"); }
+
+.twa-clock7 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f556.svg"); }
+
+.twa-clock730 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f562.svg"); }
+
+.twa-clock8 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f557.svg"); }
+
+.twa-clock830 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f563.svg"); }
+
+.twa-clock9 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f558.svg"); }
+
+.twa-clock930 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f564.svg"); }
+
+.twa-congratulations {
+  background-image: url("https://twemoji.maxcdn.com/svg/3297.svg"); }
+
+.twa-cool {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f192.svg"); }
+
+.twa-copyright {
+  background-image: url("https://twemoji.maxcdn.com/svg/a9.svg"); }
+
+.twa-curly-loop {
+  background-image: url("https://twemoji.maxcdn.com/svg/27b0.svg"); }
+
+.twa-currency-exchange {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4b1.svg"); }
+
+.twa-customs {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6c3.svg"); }
+
+.twa-diamond-shape-with-a-dot-inside {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4a0.svg"); }
+
+.twa-do-not-litter {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6af.svg"); }
+
+.twa-eight {
+  background-image: url("https://twemoji.maxcdn.com/svg/38-20e3.svg"); }
+
+.twa-eight-pointed-black-star {
+  background-image: url("https://twemoji.maxcdn.com/svg/2734.svg"); }
+
+.twa-eight-spoked-asterisk {
+  background-image: url("https://twemoji.maxcdn.com/svg/2733.svg"); }
+
+.twa-end {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f51a.svg"); }
+
+.twa-fast-forward {
+  background-image: url("https://twemoji.maxcdn.com/svg/23e9.svg"); }
+
+.twa-five {
+  background-image: url("https://twemoji.maxcdn.com/svg/35-20e3.svg"); }
+
+.twa-four {
+  background-image: url("https://twemoji.maxcdn.com/svg/34-20e3.svg"); }
+
+.twa-free {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f193.svg"); }
+
+.twa-gemini {
+  background-image: url("https://twemoji.maxcdn.com/svg/264a.svg"); }
+
+.twa-hash {
+  background-image: url("https://twemoji.maxcdn.com/svg/23-20e3.svg"); }
+
+.twa-heart-decoration {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f49f.svg"); }
+
+.twa-heavy-check-mark {
+  background-image: url("https://twemoji.maxcdn.com/svg/2714.svg"); }
+
+.twa-heavy-division-sign {
+  background-image: url("https://twemoji.maxcdn.com/svg/2797.svg"); }
+
+.twa-heavy-dollar-sign {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4b2.svg"); }
+
+.twa-heavy-minus-sign {
+  background-image: url("https://twemoji.maxcdn.com/svg/2796.svg"); }
+
+.twa-heavy-multiplication-x {
+  background-image: url("https://twemoji.maxcdn.com/svg/2716.svg"); }
+
+.twa-heavy-plus-sign {
+  background-image: url("https://twemoji.maxcdn.com/svg/2795.svg"); }
+
+.twa-id {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f194.svg"); }
+
+.twa-ideograph-advantage {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f250.svg"); }
+
+.twa-information-source {
+  background-image: url("https://twemoji.maxcdn.com/svg/2139.svg"); }
+
+.twa-interrobang {
+  background-image: url("https://twemoji.maxcdn.com/svg/2049.svg"); }
+
+.twa-keycap-ten {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f51f.svg"); }
+
+.twa-koko {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f201.svg"); }
+
+.twa-large-blue-circle {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f535.svg"); }
+
+.twa-large-blue-diamond {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f537.svg"); }
+
+.twa-large-orange-diamond {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f536.svg"); }
+
+.twa-left-luggage {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6c5.svg"); }
+
+.twa-left-right-arrow {
+  background-image: url("https://twemoji.maxcdn.com/svg/2194.svg"); }
+
+.twa-leftwards-arrow-with-hook {
+  background-image: url("https://twemoji.maxcdn.com/svg/21a9.svg"); }
+
+.twa-leo {
+  background-image: url("https://twemoji.maxcdn.com/svg/264c.svg"); }
+
+.twa-libra {
+  background-image: url("https://twemoji.maxcdn.com/svg/264e.svg"); }
+
+.twa-link {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f517.svg"); }
+
+.twa-m {
+  background-image: url("https://twemoji.maxcdn.com/svg/24c2.svg"); }
+
+.twa-mens {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6b9.svg"); }
+
+.twa-metro {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f687.svg"); }
+
+.twa-mobile-phone-off {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4f4.svg"); }
+
+.twa-negative-squared-cross-mark {
+  background-image: url("https://twemoji.maxcdn.com/svg/274e.svg"); }
+
+.twa-new {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f195.svg"); }
+
+.twa-ng {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f196.svg"); }
+
+.twa-nine {
+  background-image: url("https://twemoji.maxcdn.com/svg/39-20e3.svg"); }
+
+.twa-no-bicycles {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6b3.svg"); }
+
+.twa-no-entry {
+  background-image: url("https://twemoji.maxcdn.com/svg/26d4.svg"); }
+
+.twa-no-entry-sign {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6ab.svg"); }
+
+.twa-no-mobile-phones {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4f5.svg"); }
+
+.twa-no-pedestrians {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6b7.svg"); }
+
+.twa-no-smoking {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6ad.svg"); }
+
+.twa-non-potable-water {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6b1.svg"); }
+
+.twa-o {
+  background-image: url("https://twemoji.maxcdn.com/svg/2b55.svg"); }
+
+.twa-o2 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f17e.svg"); }
+
+.twa-ok {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f197.svg"); }
+
+.twa-on {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f51b.svg"); }
+
+.twa-one {
+  background-image: url("https://twemoji.maxcdn.com/svg/31-20e3.svg"); }
+
+.twa-ophiuchus {
+  background-image: url("https://twemoji.maxcdn.com/svg/26ce.svg"); }
+
+.twa-parking {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f17f.svg"); }
+
+.twa-part-alternation-mark {
+  background-image: url("https://twemoji.maxcdn.com/svg/303d.svg"); }
+
+.twa-passport-control {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6c2.svg"); }
+
+.twa-pisces {
+  background-image: url("https://twemoji.maxcdn.com/svg/2653.svg"); }
+
+.twa-potable-water {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6b0.svg"); }
+
+.twa-put-litter-in-its-place {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6ae.svg"); }
+
+.twa-radio-button {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f518.svg"); }
+
+.twa-recycle {
+  background-image: url("https://twemoji.maxcdn.com/svg/267b.svg"); }
+
+.twa-red-circle {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f534.svg"); }
+
+.twa-registered {
+  background-image: url("https://twemoji.maxcdn.com/svg/ae.svg"); }
+
+.twa-repeat {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f501.svg"); }
+
+.twa-repeat-one {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f502.svg"); }
+
+.twa-restroom {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6bb.svg"); }
+
+.twa-rewind {
+  background-image: url("https://twemoji.maxcdn.com/svg/23ea.svg"); }
+
+.twa-sa {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f202.svg"); }
+
+.twa-sagittarius {
+  background-image: url("https://twemoji.maxcdn.com/svg/2650.svg"); }
+
+.twa-scorpius {
+  background-image: url("https://twemoji.maxcdn.com/svg/264f.svg"); }
+
+.twa-secret {
+  background-image: url("https://twemoji.maxcdn.com/svg/3299.svg"); }
+
+.twa-seven {
+  background-image: url("https://twemoji.maxcdn.com/svg/37-20e3.svg"); }
+
+.twa-signal-strength {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4f6.svg"); }
+
+.twa-six {
+  background-image: url("https://twemoji.maxcdn.com/svg/36-20e3.svg"); }
+
+.twa-six-pointed-star {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f52f.svg"); }
+
+.twa-small-blue-diamond {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f539.svg"); }
+
+.twa-small-orange-diamond {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f538.svg"); }
+
+.twa-small-red-triangle {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f53a.svg"); }
+
+.twa-small-red-triangle-down {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f53b.svg"); }
+
+.twa-soon {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f51c.svg"); }
+
+.twa-sos {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f198.svg"); }
+
+.twa-symbols {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f523.svg"); }
+
+.twa-taurus {
+  background-image: url("https://twemoji.maxcdn.com/svg/2649.svg"); }
+
+.twa-three {
+  background-image: url("https://twemoji.maxcdn.com/svg/33-20e3.svg"); }
+
+.twa-tm {
+  background-image: url("https://twemoji.maxcdn.com/svg/2122.svg"); }
+
+.twa-top {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f51d.svg"); }
+
+.twa-trident {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f531.svg"); }
+
+.twa-twisted-rightwards-arrows {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f500.svg"); }
+
+.twa-two {
+  background-image: url("https://twemoji.maxcdn.com/svg/32-20e3.svg"); }
+
+.twa-u5272 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f239.svg"); }
+
+.twa-u5408 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f234.svg"); }
+
+.twa-u55b6 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f23a.svg"); }
+
+.twa-u6307 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f22f.svg"); }
+
+.twa-u6708 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f237.svg"); }
+
+.twa-u6709 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f236.svg"); }
+
+.twa-u6e80 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f235.svg"); }
+
+.twa-u7121 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f21a.svg"); }
+
+.twa-u7533 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f238.svg"); }
+
+.twa-u7981 {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f232.svg"); }
+
+.twa-u7a7a {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f233.svg"); }
+
+.twa-underage {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f51e.svg"); }
+
+.twa-up {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f199.svg"); }
+
+.twa-vibration-mode {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4f3.svg"); }
+
+.twa-virgo {
+  background-image: url("https://twemoji.maxcdn.com/svg/264d.svg"); }
+
+.twa-vs {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f19a.svg"); }
+
+.twa-wavy-dash {
+  background-image: url("https://twemoji.maxcdn.com/svg/3030.svg"); }
+
+.twa-wc {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6be.svg"); }
+
+.twa-wheelchair {
+  background-image: url("https://twemoji.maxcdn.com/svg/267f.svg"); }
+
+.twa-white-check-mark {
+  background-image: url("https://twemoji.maxcdn.com/svg/2705.svg"); }
+
+.twa-white-circle {
+  background-image: url("https://twemoji.maxcdn.com/svg/26aa.svg"); }
+
+.twa-white-flower {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f4ae.svg"); }
+
+.twa-white-square-button {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f533.svg"); }
+
+.twa-womens {
+  background-image: url("https://twemoji.maxcdn.com/svg/1f6ba.svg"); }
+
+.twa-x {
+  background-image: url("https://twemoji.maxcdn.com/svg/274c.svg"); }
+
+.twa-zero {
+  background-image: url("https://twemoji.maxcdn.com/svg/30-20e3.svg"); }
