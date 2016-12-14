@@ -1,3 +1,5 @@
 config.codekit
 .codekit-cache
 .sass-cache
+
+bower_components

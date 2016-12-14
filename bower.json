@@ -1,0 +1,24 @@
+{
+  "name": "twemoji-awesome",
+  "version": "0.1.0",
+  "homepage": "https://github.com/ellekasai/twemoji-awesome",
+  "description": "Like Font Awesome, but for Twitter Emoji",
+  "keywords": [
+    "emoji",
+    "twemoji",
+    "font",
+    "iconfont",
+    "icon",
+    "awesome"
+  ],
+  "authors": [
+    "ellekasai <elle.kasai@gmail.com> (http://ellekasai.com/)"
+  ],
+  "ignore": [
+    "bower_components",
+    ".bowerrc",
+    ".git",
+    ".gitignore"
+  ],
+  "dependencies": {}
+}
