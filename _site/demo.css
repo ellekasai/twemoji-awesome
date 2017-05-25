@@ -1,0 +1,70 @@
+@charset "UTF-8";
+
+/*———————————–———————————–
+  Overwrite Bootstrap
+———————————–———————————–*/
+
+body {
+  border-top: 5px solid #FD7A66;
+  font-family: "BPreplay", sans-serif;
+  font-size: 18px;
+}
+.btn-primary {
+  border-color: #DE805A !important;
+  background-color: #F28B60 !important;
+}
+.btn-primary:hover {
+  background-color: #FD7A66 !important;
+}
+.hljs {
+  padding: 0;
+  background: transparent;
+}
+
+/*———————————–———————————–
+  Styles
+———————————–———————————–*/
+
+.main-padding {
+  padding-top: 100px;
+}
+main {
+  padding-bottom: 100px;
+}
+ul {
+  padding: 0;
+  list-style: none;
+}
+code {
+  padding: 0;
+  background-color: transparent;
+  color: #C4445B;
+}
+h3 {
+  font-size: 25px;
+  font-weight: 700;
+}
+.space-lg {
+  margin-top: 35px;
+}
+.space-md {
+  margin-top: 25px;
+}
+.space-sm {
+  margin-top: 15px;
+}
+.title {
+  color: #FD7A66;
+  font-size: 45px;
+  font-weight: 700;
+}
+.lead {
+  font-size: 20px;
+}
+.table code {
+  color: #555;
+  font-size: 75%;
+}
+.table code strong {
+  color: #C4445B;
+}

@@ -1,0 +1,36 @@
+@import 'modules/twemoji-possum/dist/emoji-map';
+
+.twa {
+  display: inline-block;
+  height: 1em;
+  width: 1em;
+  margin: 0 .05em 0 .1em;
+  vertical-align: -0.1em;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 1em 1em;
+}
+
+$size-map: (
+  "lg": 1.33,
+  "2x": 2,
+  "3x": 3,
+  "4x": 4,
+  "5x": 5
+);
+
+@each $name, $size in $size-map {
+  .twa-#{$name} {
+    height: 1em * $size;
+    width: 1em * $size;
+    margin: 0 .05em * $size 0 .1em * $size;
+    vertical-align: -0.1em * $size;
+    background-size: 1em * $size 1em * $size;
+  }
+}
+
+@each $name, $code in $emoji-map {
+  .twa-#{$name} {
+    background-image: url("https://twemoji.maxcdn.com/2/svg/#{$code}.svg");
+  }
+}
