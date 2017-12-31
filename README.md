@@ -1,6 +1,6 @@
-Unfortunately, this project is **no longer maintained**.
+:warning: This project is **no longer maintained** :warning:
 
-I now have other priorities in my life and no longer have time to update this library. Email me at elle.kasai@gmail.com if you'd like to reach me.
+You can use [Emoji-Awesome](https://github.com/zeeshanu/emoji-awesome) instead. I now have other priorities in my life and no longer have time to update this library. Email me at elle.kasai@gmail.com if you'd like to reach me.
 
 # :tada: Twemoji Awesome :beer:
 
